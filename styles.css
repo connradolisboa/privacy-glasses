@@ -1,5 +1,5 @@
 .workspace-leaf-content.is-md-view :is(.inline-title, .cm-line, .view-header-title-container, .cm-callout),
-.workspace-leaf-content.is-non-md-view,
+/* .workspace-leaf-content.is-non-md-view, */
 .workspace-leaf-content.is-md-view-headlines-only :is(.cm-line, .cm-callout),
 .privacy-glasses-blur-all .workspace-tab-header-inner-title,
 .privacy-glasses-blur-all #quick-explorer,

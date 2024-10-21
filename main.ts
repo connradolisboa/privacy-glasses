@@ -411,7 +411,7 @@ export default class PrivacyGlassesPlugin extends Plugin {
         (d) =>
           `
 
-          :is(.nav-folder-title, .nav-file-title)[data-path^=${d}] {filter: blur(calc(var(--blurLevel) * 1))}
+          :is(.nav-folder-title, .nav-file-title)[data-path^=${d}] {filter: blur(calc(var(--blurLevel) * 0))}
 
           :is(.nav-folder-title, .nav-file-title)[data-path^=${d}]:hover {filter: unset}
 
